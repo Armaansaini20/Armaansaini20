@@ -21,7 +21,7 @@
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baneet2s&layout=donut-vertical&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armaansaini20&layout=donut-vertical&show_icons=true&theme=radical)
 
 <hr>
 
