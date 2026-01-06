@@ -10,9 +10,6 @@
   Strong focus on <b>clean architecture, performance, and production readiness</b>.
 </p>
 
-<br/>
-
-<hr/>
 
 <!-- ===================== TECH STACK ===================== -->
 <h3 align="center">Tech Stack</h3>
@@ -25,9 +22,6 @@
   <sub>Primary tools I use to build scalable, real-world systems</sub>
 </p>
 
-<br/>
-
-<hr/>
 
 <!-- ===================== STATS ===================== -->
 <h3 align="center">Developer Metrics</h3>
@@ -47,24 +41,6 @@
 </tr>
 </table>
 
-<br/>
-
-<hr/>
-
-<!-- ===================== FOCUS ===================== -->
-<h3 align="center">What I Do</h3>
-
-<p align="center">
-  • Architect scalable backend systems<br/>
-  • Build AI/ML solutions for real-world data<br/>
-  • Work with time-series & signal processing pipelines<br/>
-  • Optimize performance & system reliability<br/>
-  • Own products end-to-end — from idea to deployment
-</p>
-
-<br/>
-
-<hr/>
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
