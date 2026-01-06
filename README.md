@@ -1,30 +1,72 @@
-# Hey, I am Armaan👋
-###  A Tech-Enthusiast diving into code and circuits! Exploring the tech cosmos with curiosity as my compass. Join me in the journey of unraveling ones and zeros 🌌🚀
-<hr>
+<!-- ===================== HERO ===================== -->
+<h1 align="center">Armaan Saini</h1>
 
-## 🌐 Socials:
-  <a href="https://www.linkedin.com/in/armaan-saini-23533b258/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<hr>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;AI+%26+Machine+Learning;Systems+%26+IoT;Building+Production-Grade+Software" />
+</p>
 
-## 💻 Tech Stack:
+<p align="center">
+  I design and build <b>end-to-end systems</b> across full-stack applications, AI pipelines, and real-world products.<br/>
+  Strong focus on <b>clean architecture, performance, and production readiness</b>.
+</p>
 
+<br/>
 
-![Static Badge](https://img.shields.io/badge/HTML5-BLACK?style=flat-square&logo=HTML5&logoColor=%23FFFFFF&labelColor=%23E34F26&color=%23E34F26)
-![Static Badge](https://img.shields.io/badge/CSS3-BLACK?style=flat-square&logo=CSS3&logoColor=%23FFFFFF&labelColor=%231572B6&color=%231572B6)
-![Static Badge](https://img.shields.io/badge/C-BLACK?style=flat-square&logo=C&logoColor=%23FFFFFF&labelColor=%23A8B9CC&color=%23A8B9CC)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-BLACK?style=flat-square&logo=C%2B%2B&logoColor=%23FFFFFF&labelColor=%2300599C&color=%2300599C)
-![Static Badge](https://img.shields.io/badge/PYTHON-BLACK?style=flat-square&logo=Python&logoColor=%23FFFFFF&labelColor=%233776AB&color=%233776AB)
-![Static Badge](https://img.shields.io/badge/MYSQL-BLACK?style=flat-square&logo=MySQL&logoColor=%23FFFFFF&labelColor=%234479A1&color=%234479A1)
-![Static Badge](https://img.shields.io/badge/GIT-BLACK?style=flat-square&logo=Git&logoColor=%23FFFFFF&labelColor=%23F05032&color=%23F05032)
+<hr/>
 
-<hr>
+<!-- ===================== TECH STACK ===================== -->
+<h3 align="center">Tech Stack</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armaansaini20&layout=donut-vertical&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,react,vite,html,css,nodejs,express,fastapi,flask,pytorch,mongodb,postgres,docker,linux&theme=dark" />
+</p>
 
-<hr>
+<p align="center">
+  <sub>Primary tools I use to build scalable, real-world systems</sub>
+</p>
 
-![Armaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armaansaini20&show_icons=true&theme=radical)
+<br/>
 
-<hr>
+<hr/>
+
+<!-- ===================== STATS ===================== -->
+<h3 align="center">Developer Metrics</h3>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Armaansaini20&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://leetcard.jacoblin.cool/armaansaini20?theme=dark&font=Inter&ext=contest" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<hr/>
+
+<!-- ===================== FOCUS ===================== -->
+<h3 align="center">What I Do</h3>
+
+<p align="center">
+  • Architect scalable backend systems<br/>
+  • Build AI/ML solutions for real-world data<br/>
+  • Work with time-series & signal processing pipelines<br/>
+  • Optimize performance & system reliability<br/>
+  • Own products end-to-end — from idea to deployment
+</p>
+
+<br/>
+
+<hr/>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <sub>Always building. Always improving.</sub>
+</p>
